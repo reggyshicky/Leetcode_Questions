@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Leetcode_Questions\LeetCode\Palindrome_Numbers\bin\Debug\net7.0\Palindrome_Numbers.exe
+C:\Users\HP\source\repos\Leetcode_Questions\LeetCode\Palindrome_Numbers\bin\Debug\net7.0\Palindrome_Numbers.deps.json
+C:\Users\HP\source\repos\Leetcode_Questions\LeetCode\Palindrome_Numbers\bin\Debug\net7.0\Palindrome_Numbers.runtimeconfig.json
+C:\Users\HP\source\repos\Leetcode_Questions\LeetCode\Palindrome_Numbers\bin\Debug\net7.0\Palindrome_Numbers.dll
+C:\Users\HP\source\repos\Leetcode_Questions\LeetCode\Palindrome_Numbers\bin\Debug\net7.0\Palindrome_Numbers.pdb
+C:\Users\HP\source\repos\Leetcode_Questions\LeetCode\Palindrome_Numbers\obj\Debug\net7.0\Palindrome_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Leetcode_Questions\LeetCode\Palindrome_Numbers\obj\Debug\net7.0\Palindrome_Numbers.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Leetcode_Questions\LeetCode\Palindrome_Numbers\obj\Debug\net7.0\Palindrome_Numbers.AssemblyInfo.cs
+C:\Users\HP\source\repos\Leetcode_Questions\LeetCode\Palindrome_Numbers\obj\Debug\net7.0\Palindrome_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Leetcode_Questions\LeetCode\Palindrome_Numbers\obj\Debug\net7.0\Palindrome_Numbers.dll
+C:\Users\HP\source\repos\Leetcode_Questions\LeetCode\Palindrome_Numbers\obj\Debug\net7.0\refint\Palindrome_Numbers.dll
+C:\Users\HP\source\repos\Leetcode_Questions\LeetCode\Palindrome_Numbers\obj\Debug\net7.0\Palindrome_Numbers.pdb
+C:\Users\HP\source\repos\Leetcode_Questions\LeetCode\Palindrome_Numbers\obj\Debug\net7.0\Palindrome_Numbers.genruntimeconfig.cache
+C:\Users\HP\source\repos\Leetcode_Questions\LeetCode\Palindrome_Numbers\obj\Debug\net7.0\ref\Palindrome_Numbers.dll
