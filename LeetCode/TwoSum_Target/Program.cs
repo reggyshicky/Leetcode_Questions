@@ -12,6 +12,8 @@ public class TwoSumTarget
     }
     public bool TwoSum(int[] arr, int target)
     {
+
+        //This approach is used for a sorted array
         int left = 0;
         int right = arr.Length - 1;
 
