@@ -20,6 +20,7 @@ namespace CombineTwoSortedArrays
 
         public List<int> AddTwoSortedArrays(int[] arr1, int[] arr2)
         {
+            //this approach is specifically for sorted array
             List<int> list = new List<int>();
             int i = 0;
             int j = 0;
