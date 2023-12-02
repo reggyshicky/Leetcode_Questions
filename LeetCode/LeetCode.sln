@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest_Common_Prefix", "Lo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParantheses", "ValidParantheses\ValidParantheses.csproj", "{E2BC7542-A0FC-4D5B-8D7E-6640BF30D09D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum_Target", "TwoSum_Target\TwoSum_Target.csproj", "{C9FE8093-514D-4959-BF28-7089AB04089D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum_Target", "TwoSum_Target\TwoSum_Target.csproj", "{C9FE8093-514D-4959-BF28-7089AB04089D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombineTwoSortedArrays", "CombineTwoSortedArrays\CombineTwoSortedArrays.csproj", "{05B8DFC0-D6DD-4507-B7AF-A3CF744CE284}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{C9FE8093-514D-4959-BF28-7089AB04089D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9FE8093-514D-4959-BF28-7089AB04089D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9FE8093-514D-4959-BF28-7089AB04089D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B8DFC0-D6DD-4507-B7AF-A3CF744CE284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B8DFC0-D6DD-4507-B7AF-A3CF744CE284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B8DFC0-D6DD-4507-B7AF-A3CF744CE284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B8DFC0-D6DD-4507-B7AF-A3CF744CE284}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
