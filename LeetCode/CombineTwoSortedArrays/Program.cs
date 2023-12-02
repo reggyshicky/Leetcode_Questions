@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Runtime.InteropServices.Marshalling;
 
 namespace CombineTwoSortedArrays
 {
@@ -16,6 +17,11 @@ namespace CombineTwoSortedArrays
                 
                 Console.WriteLine(element + " ");
             }
+
+            string x = "abc";
+            String y = "abcdef";
+            var answer = program.Subsquence(x, y);
+            Console.WriteLine(answer);
         }
 
         public List<int> AddTwoSortedArrays(int[] arr1, int[] arr2)
@@ -51,5 +57,21 @@ namespace CombineTwoSortedArrays
             return list;
             
         } 
+
+        public bool Subsquence(string Subsequent, string Originalstring)
+        {
+            int i = 0;
+            int j = 0;
+
+            while (i < Subsequent.Length && j <Originalstring.Length)
+            {
+                if (Subsequent[i] == Originalstring[j])
+                {
+                    i++;
+                }
+                j++;
+            }
+            return i == Subsequent.Length;
+        }
     }
 }
