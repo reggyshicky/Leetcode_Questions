@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParantheses", "ValidPa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum_Target", "TwoSum_Target\TwoSum_Target.csproj", "{C9FE8093-514D-4959-BF28-7089AB04089D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombineTwoSortedArrays", "CombineTwoSortedArrays\CombineTwoSortedArrays.csproj", "{05B8DFC0-D6DD-4507-B7AF-A3CF744CE284}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CombineTwoSortedArrays", "CombineTwoSortedArrays\CombineTwoSortedArrays.csproj", "{05B8DFC0-D6DD-4507-B7AF-A3CF744CE284}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascal_Triangle", "Pascal_Triangle\Pascal_Triangle.csproj", "{694D0CC5-E48B-4E2C-827C-26D4C2A0A1A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{05B8DFC0-D6DD-4507-B7AF-A3CF744CE284}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05B8DFC0-D6DD-4507-B7AF-A3CF744CE284}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05B8DFC0-D6DD-4507-B7AF-A3CF744CE284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694D0CC5-E48B-4E2C-827C-26D4C2A0A1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694D0CC5-E48B-4E2C-827C-26D4C2A0A1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694D0CC5-E48B-4E2C-827C-26D4C2A0A1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694D0CC5-E48B-4E2C-827C-26D4C2A0A1A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
