@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N87AbdjDxJwRxmKmIe9aShbsT27bxJOse08CdIJxysDzl3MB8uDMVIjl4ha36jj42XLY/bhJr9ma+C5dqh3cAg==",
+  "dgSpecHash": "4BswCptjb7olj6Ha9kgyrzTf8JnDOlu/VCjV3raqhGsmRm3yL0ioSNwWoj4E9L+G+0yNtWRJDbwkTiylGiUecQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Leetcode_Questions\\LeetCode\\Palindrome_Numbers\\Palindrome_Numbers.csproj",
+  "projectFilePath": "/home/reginah/Leetcode_Questions/LeetCode/Palindrome_Numbers/Palindrome_Numbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

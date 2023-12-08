@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\Leetcode_Questions\\LeetCode\\Palindrome_Numbers\\Palindrome_Numbers.csproj": {}
+    "/home/reginah/Leetcode_Questions/LeetCode/Palindrome_Numbers/Palindrome_Numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\Leetcode_Questions\\LeetCode\\Palindrome_Numbers\\Palindrome_Numbers.csproj": {
+    "/home/reginah/Leetcode_Questions/LeetCode/Palindrome_Numbers/Palindrome_Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Leetcode_Questions\\LeetCode\\Palindrome_Numbers\\Palindrome_Numbers.csproj",
+        "projectUniqueName": "/home/reginah/Leetcode_Questions/LeetCode/Palindrome_Numbers/Palindrome_Numbers.csproj",
         "projectName": "Palindrome_Numbers",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\Leetcode_Questions\\LeetCode\\Palindrome_Numbers\\Palindrome_Numbers.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\Leetcode_Questions\\LeetCode\\Palindrome_Numbers\\obj\\",
+        "projectPath": "/home/reginah/Leetcode_Questions/LeetCode/Palindrome_Numbers/Palindrome_Numbers.csproj",
+        "packagesPath": "/home/reginah/.nuget/packages/",
+        "outputPath": "/home/reginah/Leetcode_Questions/LeetCode/Palindrome_Numbers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/reginah/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
