@@ -8,9 +8,7 @@ flip at index 2, the string becomes 1111100111.
 
 function find_length (s) {
     let left = 0;
-    let currNoZeros
-    
-    = 0;
+    let currNoZeros = 0;
     let ansArr = 0;
 
     for (let right = 0; right < s.length; right++) {
