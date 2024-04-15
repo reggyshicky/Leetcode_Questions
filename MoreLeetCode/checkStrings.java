@@ -8,6 +8,7 @@ public class checkStrings {
         System.out.println(c.checkstrings("aabbb"));
         System.out.println(c.checkstrings("abba"));
         System.out.println(c.checkstrings("ba"));
+        System.out.println("Hello i love \"java\"");
     }
 }
 
